@@ -15,7 +15,7 @@ console.log(value)
 
   return (
     
-<div  style={{backgroundColor: theme ? "lightpink" :"plum", height:"100vh"}}>
+<div  style={{backgroundColor: theme ? "lightpink" :"Violet", height:"100vh"}}>
   
   
 <div>ContactUS</div>

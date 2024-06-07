@@ -11,3 +11,10 @@ vercel --prod
 
 
 git add .
+
+git commit -m "Mandar"
+
+git push origin main
+
+
+git add . ----> changes update

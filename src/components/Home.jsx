@@ -1,6 +1,6 @@
 import React from 'react'
 
-import image from "../assets/homeimage.jpeg"
+import image from "../assets/Om.jpeg"
 
 const Home = () => {
   return (
@@ -11,7 +11,7 @@ const Home = () => {
     <div style={{width:"100%", background:"Green"}}>
     <marquee>Get ready for ultimate food experience!</marquee>
     </div>
-    <img width={"1500px"} height={"700px"} src={image} alt="" />
+    <img width={"400px"} height={"700px"} src={image} alt="" />
     </div>
 
 

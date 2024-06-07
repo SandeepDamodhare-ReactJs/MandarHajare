@@ -35,8 +35,8 @@ const {theme, Toggle} = value
 console.log(value)
   return (
     <>
-    <div style={{background:"Green"}}>
-    <marquee>Not an valid user?? Then SignUp</marquee>
+    <div style={{background:"DarkOrchid"}}>
+    <marquee>What colour is your buggati ?</marquee>
     </div>
 
 <div  style={{backgroundColor: theme ? "orange" :"DarkSeaGreen", height:"100vh"}}>  
