@@ -1,6 +1,6 @@
 import React from 'react'
 
-import image from "../assets/Om.jpeg"
+import image from "../assets/Tanishq.jpeg"
 
 const Home = () => {
   return (
@@ -9,9 +9,9 @@ const Home = () => {
       
     <div>
     <div style={{width:"100%", background:"Green"}}>
-    <marquee>Get ready for ultimate food experience!</marquee>
+    <marquee>My Hero!</marquee>
     </div>
-    <img width={"400px"} height={"700px"} src={image} alt="" />
+    <img width={"900px"} height={"700px"} src={image} alt="" />
     </div>
 
 

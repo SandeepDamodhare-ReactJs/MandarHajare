@@ -18,7 +18,9 @@ console.log(value)
 <div  style={{backgroundColor: theme ? "lightpink" :"Violet", height:"100vh"}}>
   
   
-<div>ContactUS</div>
+<div><h1>Mandar Hajare</h1></div>
+<img src="https://img.stablecog.com/insecure/1024w/aHR0cHM6Ly9iLnN0YWJsZWNvZy5jb20vNGVjMTVlYTQtMzRhOC00ZTVjLThjYWQtNGU5NzJhYTVhOTcxLmpwZWc.webp" alt="" style={{width:"80%", background:"Green"}}/>
+
   
     </div>
   )

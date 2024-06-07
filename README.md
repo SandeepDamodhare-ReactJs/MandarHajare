@@ -16,5 +16,11 @@ git commit -m "Mandar"
 
 git push origin main
 
+----> changes update
 
-git add . ----> changes update
+
+git add .
+
+git commit -m "Mandar"
+
+git push origin main
